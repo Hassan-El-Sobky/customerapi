@@ -1,1 +1,10 @@
-'{}' 
+{
+    "name": "vendor/name",
+    "authors": [
+        {
+            "name": "Hassan-El-Sobky",
+            "email": "hassan_elsobky@hotmail.com"
+        }
+    ],
+    "require": {}
+}
